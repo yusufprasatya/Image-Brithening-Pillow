@@ -1,0 +1,9 @@
+#tutorial penggunaan
+
+Buka https://colab.research.google.com/notebooks/intro.ipynb#recent=true
+
+kemudian pilih upload projek, kemudian upload kan file berformat .ipynb ini.
+
+lalu disebelah kanan, buat folder img dan upload gambar yang ada pada folder img ini.
+
+dan running projeknya.
